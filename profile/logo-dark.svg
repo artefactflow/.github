@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="372" height="81" viewBox="0 0 372 81" role="img" aria-label="ArtefactFlow">
+  <!-- Same artwork as email-logo.svg, on its own dark navy plate, so the white
+       wordmark stays readable wherever it is placed (light pages, dark mode). -->
+  <rect width="372" height="81" rx="10" fill="#0f1b2d"/>
+  <g transform="translate(30,14) scale(1.9)">
+    <!-- Brand mark -->
+    <g transform="translate(0,0)">
+      <rect x="2" y="14" width="9" height="9" rx="1.5" fill="#ffffff" opacity="0.9"/>
+      <rect x="8.5" y="8" width="9" height="9" rx="1.5" fill="#64b5f6"/>
+      <rect x="15" y="2" width="9" height="9" rx="1.5" fill="#7fd89a"/>
+    </g>
+    <!-- Wordmark -->
+    <text x="34" y="21" font-family="Verdana, Geneva, sans-serif" font-size="18" font-weight="500" letter-spacing="0.3" fill="#ffffff">ArtefactFlow</text>
+    <!-- Flow line -->
+    <path d="M35 29 Q 63 25.5, 91 29 T 147 29" fill="none" stroke="#7fd89a" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+</svg>
